@@ -16,7 +16,7 @@ const vt323 = VT323({
 });
 
 export const metadata: Metadata = {
-  title: "Retro JRPG Portfolio",
+  title: "Matheus Ribeiro - A Developer Grimoire",
   description: "A personal portfolio with a retro JRPG theme",
 };
 
