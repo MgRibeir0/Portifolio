@@ -40,9 +40,9 @@ export default function HeroSection() {
           transition={{ delay: 0.4 }}
           className="text-xl max-w-2xl mx-auto"
         >
-          Welcome, adventurer! I'm a level 22 Full Stack Developer with +3 years
-          of experience in crafting digital realms. Ready to join your party and
-          tackle epic quests!
+          Welcome, adventurer! I&apos;m a level 22 Full Stack Developer with +3
+          years of experience in crafting digital realms. Ready to join your
+          party and tackle epic quests!
         </motion.p>
         <motion.a
           href="/CV.pdf"
